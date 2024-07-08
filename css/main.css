@@ -416,6 +416,10 @@ body {
   .hidden-xs {
     display: none !important;
   }
+  .responsive-paragraph {
+  text-align: center;
+  font-size: 18px !important;
+}
 }
 @media (min-width: 768px) and (max-width: 991px) {
   /* Small Screen */
